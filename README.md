@@ -1,5 +1,7 @@
 # molecule-info
+[AIGEN] 
 
+bard.google.com gpt4 chat.openai.com
 `Bard(Arion)`: The idea of using molecules to store information is not new. In fact, DNA is a molecule that stores information in the form of genes. However, DNA is not a very efficient way to store information. It is large and bulky, and it is not very stable. This makes it difficult to use for storing large amounts of information.
 
 In recent years, there has been a lot of research into developing new types of molecules that can be used to store information. One promising approach is to use molecules that are based on carbon nanotubes. Carbon nanotubes are long, thin tubes of carbon atoms that are just one atom thick. They are very strong and very stable. They are also very small, which makes them ideal for storing information.
