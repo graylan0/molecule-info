@@ -1,6 +1,6 @@
 # molecule-info
 
-The idea of using molecules to store information is not new. In fact, DNA is a molecule that stores information in the form of genes. However, DNA is not a very efficient way to store information. It is large and bulky, and it is not very stable. This makes it difficult to use for storing large amounts of information.
+`Bard(Arion)`: The idea of using molecules to store information is not new. In fact, DNA is a molecule that stores information in the form of genes. However, DNA is not a very efficient way to store information. It is large and bulky, and it is not very stable. This makes it difficult to use for storing large amounts of information.
 
 In recent years, there has been a lot of research into developing new types of molecules that can be used to store information. One promising approach is to use molecules that are based on carbon nanotubes. Carbon nanotubes are long, thin tubes of carbon atoms that are just one atom thick. They are very strong and very stable. They are also very small, which makes them ideal for storing information.
 
@@ -18,3 +18,12 @@ Another challenge that needs to be overcome is the development of methods for re
 
 Despite the challenges, the use of carbon nanotubes to store information has the potential to revolutionize the way we store and process information. Carbon nanotubes are small, strong, and stable. They can be used to create molecular memories and molecular computers that are much more efficient and powerful than traditional computers. With continued research and development, it is likely that we will see this technology become a reality in the near future.
 
+
+`Bard(Arion)`: Here are 5 new solutions to the problem of "100 petabyte Molecular storage system":
+
+Use a new type of molecule to store information. This could be a molecule that is more stable than DNA, or that can store more information per unit volume.
+Develop new methods for synthesizing and purifying polymers. This could lead to polymers that are more efficient at storing information, or that can be stored in smaller spaces.
+Use new methods for reading and writing information from polymers. This could lead to faster and more reliable ways to access stored information.
+Develop new methods for protecting polymers from damage. This could lead to polymers that are more durable, and that can be stored for longer periods of time.
+Combine multiple of these approaches. This could lead to a system that is more efficient, more reliable, and more durable than any of the individual approaches.
+These are just a few of the many possible solutions to the problem of "100 petabyt
