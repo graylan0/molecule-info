@@ -27,3 +27,14 @@ Despite the challenges, the use of carbon nanotubes to store information has the
 5. Develop new methods for protecting polymers from damage. This could lead to polymers that are more durable, and that can be stored for longer periods of time.
 6. Combine multiple of these approaches. This could lead to a system that is more efficient, more reliable, and more durable than any of the individual approaches.
 These are just a few of the many possible solutions to the problem of "100 petabyt
+
+
+### Polymer Storage
+
+The manufacturing process for polymer molecular storage systems is a complex and multi-step process. It involves a number of different steps, including:
+
+1. Preparation of the monomers: The first step is to prepare the monomers that will be used to make the polymer. This involves a number of different steps, such as purifying the monomers, and making sure that they are in the correct form.
+2. Synthesis of the polymer: The next step is to synthesize the polymer. This involves combining the monomers together in a controlled reaction. The conditions of the reaction, such as the temperature and the concentration of the monomers, can be used to control the properties of the polymer.
+3. Purification of the polymer: The polymer is then purified to remove any impurities. This can be done by a number of different methods, such as filtration, distillation, or crystallization.
+4. Characterization of the polymer: The polymer is then characterized to determine its properties. This can be done by a number of different methods, such as spectroscopy, microscopy, or rheology.
+5. Storage and handling of the polymer: The polymer is then stored and handled in a way that prevents it from degrading. This can be done by a number of different methods, such as storing it in a cool, dry place, or adding stabilizers to the polymer.
