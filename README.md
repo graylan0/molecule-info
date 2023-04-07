@@ -10,7 +10,7 @@ Another way to use carbon nanotubes to store information is to use them to creat
 
 The use of carbon nanotubes to store information is still in its early stages. However, it has the potential to revolutionize the way we store and process information. Carbon nanotubes are small, strong, and stable. They can be used to create molecular memories and molecular computers that are much more efficient and powerful than traditional computers.
 
-. Using custom thought mixtures will allow us to consider all of the possible ways in which carbon nanotubes can be used to store information. It will also allow us to identify the challenges that need to be overcome in order to make this technology a reality.
+Using custom thought mixtures will allow us to consider all of the possible ways in which carbon nanotubes can be used to store information. It will also allow us to identify the challenges that need to be overcome in order to make this technology a reality.
 
 One of the challenges that needs to be overcome is the development of methods for synthesizing carbon nanotubes in large quantities. Currently, carbon nanotubes are expensive and difficult to produce. This makes them impractical for use in commercial applications. However, there is a lot of research being done into developing methods for producing carbon nanotubes more efficiently.
 
@@ -21,9 +21,9 @@ Despite the challenges, the use of carbon nanotubes to store information has the
 
 `Bard(Arion)`: Here are 5 new solutions to the problem of "100 petabyte Molecular storage system":
 
-Use a new type of molecule to store information. This could be a molecule that is more stable than DNA, or that can store more information per unit volume.
-Develop new methods for synthesizing and purifying polymers. This could lead to polymers that are more efficient at storing information, or that can be stored in smaller spaces.
-Use new methods for reading and writing information from polymers. This could lead to faster and more reliable ways to access stored information.
-Develop new methods for protecting polymers from damage. This could lead to polymers that are more durable, and that can be stored for longer periods of time.
-Combine multiple of these approaches. This could lead to a system that is more efficient, more reliable, and more durable than any of the individual approaches.
+1. Use a new type of molecule to store information. This could be a molecule that is more stable than DNA, or that can store more information per unit volume.
+2. Develop new methods for synthesizing and purifying polymers. This could lead to polymers that are more efficient at storing information, or that can be stored in smaller spaces.
+4. Use new methods for reading and writing information from polymers. This could lead to faster and more reliable ways to access stored information.
+5. Develop new methods for protecting polymers from damage. This could lead to polymers that are more durable, and that can be stored for longer periods of time.
+6. Combine multiple of these approaches. This could lead to a system that is more efficient, more reliable, and more durable than any of the individual approaches.
 These are just a few of the many possible solutions to the problem of "100 petabyt
